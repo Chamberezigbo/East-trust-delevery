@@ -1,0 +1,32 @@
+.bg-white {
+	background-color: white;
+}
+.courser-pointer {
+	cursor: pointer;
+}
+.fwt-sm {
+	font-size: x-small;
+}
+.card-for-buz {
+	border-top-right-radius: 25px !important;
+}
+.card-text-hover:hover {
+	color: red;
+	cursor: pointer;
+}
+.side-sect {
+	background-color: rgba(230, 233, 233, 0.8);
+	height: 60vh;
+}
+
+.fw-1 {
+     font-weight: lighter;
+     font-size: 13px;
+}
+.nav-link:hover {
+     color: red !important;
+}
+.tracking-nav {
+     background-color: #F2F2F2;
+}
+

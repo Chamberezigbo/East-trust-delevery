@@ -1,0 +1,64 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	background-color: white;
+}
+
+.first-nav {
+	background-color: #FFCC00;  
+}
+.tracking-sec {
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)),
+		url("../image/landingimagee.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 50vh;
+	color: white;
+}
+.card-inquiry .hoverDesc:hover {
+	color: red;
+}
+.card-inquiry:hover {
+	box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+		rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.covid-sec {
+	background-color: #f1f1f1;
+	width: 100%;
+	border-left: 5px solid red;
+}
+
+.card-shadow {
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.green-logistics {
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+		url("../image/travel-72870_1280.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 60vh;
+	color: black;
+}
+.vision-logistics {
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+		url("../image/plan-mood.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 60vh;
+	color: black;
+}
+
+footer {
+     background-color: #F1F1F1;
+     height: auto;
+}
+
+@media screen and (max-width: 600px) {
+
+}
