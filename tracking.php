@@ -11,7 +11,7 @@ if (!$_SESSION['auth']) {
           session_destroy();
           header('location:index.php');
      } else {
-          require_once "header.php";
+          require_once "tracking-header.php";
 ?>
           <div class="my-5 tracking-nav">
                <div class="container py-5">
