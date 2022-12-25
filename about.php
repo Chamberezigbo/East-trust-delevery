@@ -64,7 +64,7 @@
                                         <!-- change number -->
                                         <p>
                                              <span><i class="fa-solid fa-headphones-simple"></i></span> Call Us Anytime <br>
-                                             +1 (937)619 9475
+                                             +1 (937)619 1234
                                         </p>
                                    </div>
 
@@ -82,8 +82,8 @@
                                         <p>
                                              <!-- change the email -->
                                              <span><i class="fa-solid fa-square-envelope"></i></span>Email Us <br>
-                                             Info@webshippingsaints.com <br>
-                                             Shippingsaints@yahoo.com
+                                             <!-- Info@webshippingsaints.com <br> -->
+                                             customercare@easttrustinc.com
                                         </p>
                                    </div>
 

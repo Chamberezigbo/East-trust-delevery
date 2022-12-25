@@ -15,7 +15,7 @@ if (!$_SESSION['auth']) {
      <link rel="stylesheet" href="res/css/main.style.css">
      <link rel="stylesheet" href="res/css/global.style.css">
 
-     <title>Global ....</title>
+     <title>East .....</title>
 </head>
 
 <body>
