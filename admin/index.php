@@ -2,7 +2,7 @@
 
 if (isset($_POST['RegisterPro'])) {
      $pass = $_POST['pass'];
-     if ($pass == 'admin12345678910') {
+     if ($pass == 'admineast-1234$') {
           # code...
           session_start();
           $_SESSION['auth'] = true;

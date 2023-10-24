@@ -6,7 +6,6 @@ session_start();
 <div class="tracking-sec" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
      <div class="container pt-3" id="home">
           <?php
-          require_once "register.pro.inc.php";
           if (isset($_SESSION['error']) &&  $_SESSION['error'] == 1) { ?>
                <div class="container mt-5 position-relative">
                     <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
